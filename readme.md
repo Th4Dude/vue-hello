@@ -8,3 +8,6 @@ Bonus
 Aggiungere alla pagina un’immagine, presa anch’essa da un data.
 
 Inserite comunque un file README.md che descrive la vostra app. (titolo, descrizione).
+
+
+
